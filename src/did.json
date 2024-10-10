@@ -1,0 +1,9 @@
+{
+    "id": "did:example:abcdefg123456789",
+    "publicKey": {
+      "kty": "RSA",
+      "n": "sXch_kTJL5GYESeWV_vn1FJKjxzlwGcD7GSPP7FTj...",
+      "e": "AQAB"
+    }
+  }
+  
